@@ -205,6 +205,7 @@ btn_x = BtnX(app
              )
 btn_x.grid(row=6, column=0 , sticky=NSEW, padx = 1.5 , pady = 2 )
 ###############################btn_0
+#########fgsxhj
 def btn_0_():
     entry.insert(END , 0)
 btn_0= Btn0(app , command= btn_0_)
